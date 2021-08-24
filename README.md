@@ -49,7 +49,7 @@ Accelerometer "bias Instability" | `acc_w` | <img src="https://latex.codecogs.co
 sudo apt-get install libdw-dev
 ```
 
-* download required [`code_utils`](https://github.com/gaowenliang/code_utils "code_utils");
+* download required [`code_utils`](https://github.com/andrey1908/code_utils "code_utils");
 
 * put the ROS package `imu_utils` and `code_utils` into your workspace, usually named `catkin_ws`;
 
