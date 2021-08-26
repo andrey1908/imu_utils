@@ -69,7 +69,7 @@ sudo apt-get install libdw-dev
 * roslaunch the rosnode;
 
 ```
-roslaunch imu_utils A3.launch
+roslaunch imu_utils imu_calibration.launch
 ```
 
 Be careful of your roslaunch file:
